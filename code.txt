@@ -1,0 +1,2 @@
+cout<<"hellou world";
+return 0;
